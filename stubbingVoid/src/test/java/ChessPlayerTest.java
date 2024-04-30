@@ -11,7 +11,7 @@ import static org.mockito.Mockito.*;
 public class ChessPlayerTest {
 
     @Test
-    public void testAssignCategorySpy() throws Exception{
+    public void testAssignCategorySpy() throws Exception {
 
         ChessPlayer chessPlayer = new ChessPlayer("Magnus", 30);
         ChessPlayer chessPlayerSpy = Mockito.spy(chessPlayer);
@@ -20,11 +20,10 @@ public class ChessPlayerTest {
         chessPlayerSpy.assignCategory();
 
         assertEquals("Senior", chessPlayerSpy.getCategory());
-
     }
 
     @Test
-    public void testAssignCategoryMock() throws Exception{
+    public void testAssignCategoryMock() throws Exception {
 
         ChessPlayer chessPlayerMock = Mockito.mock(ChessPlayer.class);
 
@@ -37,22 +36,21 @@ public class ChessPlayerTest {
     }
 
     @Test(expected = Exception.class)
-    public void testAssignCategoryMockException() throws Exception{
+    public void testAssignCategoryMockException() throws Exception {
 
         ChessPlayer chessPlayerMock = Mockito.mock(ChessPlayer.class);
         doThrow(Exception.class).when(chessPlayerMock).assignCategory();
         chessPlayerMock.assignCategory();
-
     }
 
     @Test
-    public void testAssignScoreStats(){
+    public void testAssignScoreStats() {
 
         ChessPlayer chessPlayer = new ChessPlayer("Magnus", 30);
         ChessPlayer chessPlayerSpy = Mockito.spy(chessPlayer);
 
         doAnswer((chessP) -> {
-            ChessPlayer player = (ChessPlayer)chessP.getMock();
+            ChessPlayer  player = (ChessPlayer)chessP.getMock();
             player.setWins(3);
             player.setPoints(9);
             return null;
@@ -61,7 +59,5 @@ public class ChessPlayerTest {
         chessPlayerSpy.assignScoreStats();
         assertSame(3, chessPlayerSpy.getWins());
         assertSame(9, chessPlayerSpy.getPoints());
-
     }
-
 }

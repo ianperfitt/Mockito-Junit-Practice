@@ -32,34 +32,42 @@ public class ChessPlayer {
     }
 
     public Integer getAge() {
+
         return age;
     }
 
     public Integer getPoints() {
+
         return points;
     }
 
     public void setWins(Integer wins) {
+
         this.wins = wins;
     }
 
     public void setPoints(Integer points) {
+
         this.points = points;
     }
 
     public String getCategory() {
+
         return category;
     }
 
     public void setCategory(String category) {
+
         this.category = category;
     }
 
     public String getName() {
+
         return this.name;
     }
 
     public Integer getWins() {
+
         return this.wins;
     }
 }
