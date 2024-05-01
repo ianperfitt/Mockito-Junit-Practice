@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a738acda-a590-4f1f-be99-5dd9d0a96d90" name="Default Changelist" comment="" />
+    <list default="true" id="a738acda-a590-4f1f-be99-5dd9d0a96d90" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../stubbingVoid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stubbingVoid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CarShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CarShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CarShopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CarShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CarShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CarShopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CarShopTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +38,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/ianperfitt/Desktop/Mockito-Junit-Practice/thenVsDo"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="CarShopTest.testCarsInShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="thenVsDo" />
@@ -61,12 +65,54 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="" name="Default Changelist" comment="" />
       <created>1637919452123</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637919452123</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -19,7 +19,7 @@ public class CarShop {
         //calls a database
         Map<String, Integer> carsInStock = new HashMap<String, Integer>();
         if(true) {
-            throw new RuntimeException("thrown exception)");
+            throw new RuntimeException("thrown exception");
         }
         return carsInStock;
     }

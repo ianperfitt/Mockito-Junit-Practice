@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1236fc12-880d-4595-af13-bd18a8bf2e41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ChessPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ChessPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ChessPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ChessPlayerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ChessPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ChessPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ChessPlayerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ChessPlayerTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="1236fc12-880d-4595-af13-bd18a8bf2e41" name="Default Changelist" comment="Practiced stubbing void methods and updated spacing in classes." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +104,14 @@
       <option name="presentableId" value="Default" />
       <updated>1637938050020</updated>
     </task>
+    <task id="LOCAL-00001" summary="Practiced stubbing void methods and updated spacing in classes.">
+      <created>1714507290754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714507290754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,5 +141,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practiced stubbing void methods and updated spacing in classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Practiced stubbing void methods and updated spacing in classes." />
   </component>
 </project>

@@ -15,9 +15,8 @@ import static org.mockito.Mockito.when;
 public class CarShopTest {
 
     @Test
-    public void testCarsInShop(){
-
-        CarShop carShopSpy  = Mockito.spy(CarShop.class);
+    public void testCarsInShop() {
+        CarShop carShopSpy = Mockito.spy(CarShop.class);
         Map<String, Integer> carsInStock = new HashMap<String, Integer>();
         carsInStock.put("Jaguar", 10);
 
@@ -26,5 +25,4 @@ public class CarShopTest {
 
         assertThat(carShopSpy.getStockForBrand("Jaguar"), is(10));
     }
-
 }
