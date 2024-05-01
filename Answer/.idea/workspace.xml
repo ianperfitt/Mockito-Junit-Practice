@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85fda38e-73a7-4a13-aaf0-e8e23a725df1" name="Default Changelist" comment="">
+    <list default="true" id="85fda38e-73a7-4a13-aaf0-e8e23a725df1" name="Default Changelist" comment="Practiced dynamic stubbing using Answers Functional Interface">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BookManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BookManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BookManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BookManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BookManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BookManagerTest$AddBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BookManagerTest$AddBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BookManagerTest$GetBooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BookManagerTest$GetBooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BookManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BookManagerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thenVsDo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thenVsDo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/ianperfitt/Desktop/Mockito-Junit-Practice/Answer"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ianperfitt/Desktop/Mockito-Junit-Practice/Answer&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.BookManagerTest.testGetBookInventoryCount">
     <configuration name="BookManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Answer" />
@@ -91,6 +84,29 @@
       <option name="presentableId" value="Default" />
       <updated>1637598642203</updated>
     </task>
+    <task id="LOCAL-00001" summary="Practiced dynamic stubbing using Answers Functional Interface">
+      <created>1714528603378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714528603378</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practiced dynamic stubbing using Answers Functional Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practiced dynamic stubbing using Answers Functional Interface" />
   </component>
 </project>

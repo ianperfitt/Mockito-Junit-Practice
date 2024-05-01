@@ -5,6 +5,7 @@ public class BookingService {
     private BookingRepository bookingRepository;
 
     public BookingService(BookingRepository bookingRepository) {
+
         this.bookingRepository = bookingRepository;
     }
 

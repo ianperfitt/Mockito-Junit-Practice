@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df97eb9d-eaad-4d83-bebd-6a6be36029cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BookingRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BookingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BookingServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/collectionEnhancements/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Bungalow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Flat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/SwimmingPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/functionalInterface/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/functionalInterface/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/lambdaInterfaces/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/methodReferences/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/methodReferences/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/optionals/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/stream/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/stream/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultiStub/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultiStub/src/main/java/GoalStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MultiStub/src/test/java/GoalStatisticsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Answer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Answer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BookingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BookingRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BookingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BookingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BookingRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BookingRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BookingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BookingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BookingServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BookingServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +30,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="212TeQ8taOWX5DsZ1vdCaBwzZdz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,12 +38,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/ianperfitt/Desktop/Mockito-Junit-Practice/ArgMatchers"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
@@ -121,6 +101,17 @@
       <updated>1637138277694</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1637139481768">
