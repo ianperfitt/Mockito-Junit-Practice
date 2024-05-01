@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a738acda-a590-4f1f-be99-5dd9d0a96d90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../stubbingVoid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stubbingVoid/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a738acda-a590-4f1f-be99-5dd9d0a96d90" name="Default Changelist" comment="practiced the difference between doReturn and thenReturn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CarShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CarShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CarShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CarShopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CarShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CarShop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CarShopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CarShopTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1637919452123</updated>
     </task>
+    <task id="LOCAL-00001" summary="practiced the difference between doReturn and thenReturn">
+      <created>1714525025845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714525025845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practiced the difference between doReturn and thenReturn" />
+    <option name="LAST_COMMIT_MESSAGE" value="practiced the difference between doReturn and thenReturn" />
   </component>
 </project>

@@ -5,6 +5,7 @@ public class BookManager {
     private BooksRepository booksRepository;
 
     public BookManager(BooksRepository booksRepository) {
+
         this.booksRepository = booksRepository;
     }
 
@@ -15,6 +16,7 @@ public class BookManager {
     }
 
     public void addBook(String bookName){
-         this.booksRepository.addBook(bookName);
+
+        this.booksRepository.addBook(bookName);
     }
 }
